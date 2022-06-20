@@ -1,0 +1,24 @@
+p {
+  background-color: rgb(117, 125, 125);
+  padding: 10px;
+}
+
+.row {
+  width: 100%;
+}
+
+#chicken,
+#beef,
+#shushi {
+  position: relative;
+}
+
+.content {
+  padding: 60px 10px 10px 10px;
+}
+
+p.h2 {
+  position: absolute;
+  left: 30%;
+  right: 30%;
+}
